@@ -1,32 +1,34 @@
 const config = {
   "meta": {
-    "pageTitle": "Win $400 Blue Jays Tickets - Summer Game Night Giveaway!",
-    "navBrandLogoText": "Julian Kashani",
-    "privacyPolicyLink": "https://property.ca/privacy"
+    "pageTitle": "Win a $500 Fall Family Photo Shoot — Free Entry",
+    "navBrandLogoText": "Andrew Ahmed",
+    "privacyPolicyLink": "https://www.executivehomesrealty.ca/privacy-policy"
   },
   "giveaway": {
-    "heroHeadline": "Win <span class='highlight'>Free Toronto Blue Jays Tickets</span> for an Epic Summer Game Night!",
-    "heroSubheadline": "Score two premium seats to see the Toronto Blue Jays take on the Texas Rangers, valued at $400! Make your summer unforgettable with this all-star night out. Entry closes July 25th, winner picked July 29th.",
-    "heroBackgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/3x4pjwf8h1rma0cqhn6tw7t808.jpg",
-    "promotionDates": "Enter from June 27th to July 25th, 2025 - winner announced July 29th!",
-    "endDate": "2025-07-26T03:59:00.000Z",
+    "heroHeadline": "Win a <span class='highlight'>Free Fall Family Photo Shoot</span> near Grass Valley!",
+    "heroSubheadline": "Capture cozy fall moments with your crew. 1-hour session. Up to <span class='highlight'>75 edited photos</span>. Limit 5 people. The photographer helps pick the spot. Within <span class='highlight'>60 miles of Grass Valley</span>. Perfect for Roseville and Rocklin families.",
+    "heroBackgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/37sep4qb7hrmc0csgbg9w1g4hg.jpg",
+    "promotionDates": "Enter Oct 1–Oct 31, 2025. Winner drawn Oct 31, 2025.",
+    "endDate": "2025-11-01T06:59:00.000Z",
     "heroCtaText": "Enter to Win Now!",
-    "entryFormCtaText": "Enter Game Night Draw!",
-    "name": "Blue Jays Summer Game Night Giveaway",
+    "entryFormCtaText": "Enter My Family Now",
+    "name": "Memory Makers Giveaway — Fall Family Photo Shoot",
     "successModalHeaderText": "You’re in the Draw!",
-    "successModalMainMessage": "Your entry for the <strong>Toronto Blue Jays Summer Game Night</strong> is in! Winner will be announced July 29th and notified by email. Good luck!",
-    "successModalEmailPrompt": "Watch your email and keep July 29th on your calendar—you could be on your way to the ballpark!"
+    "successModalMainMessage": "Your entry for the <strong>Memory Makers Giveaway — Fall Family Photo Shoot</strong> is in! Winner will be drawn on Oct 31, 2025 and notified by email.",
+    "successModalEmailPrompt": "Please check your inbox and spam on Oct 31. We may also call and will post the winner on Facebook."
   },
   "settings": {
     "confettiColors": [
-      "#0055A4",
-      "#003366",
+      "#D2691E",
+      "#E67E22",
+      "#F4A460",
+      "#8B4513",
       "#FFFFFF"
     ],
     "showCountdownInHero": true,
     "theme": "dark",
-    "primaryColorOverride": "#0055A4",
-    "secondaryColorOverride": "#FFEE58",
+    "primaryColorOverride": "",
+    "secondaryColorOverride": "",
     "ghlWebhookUrl": "https://services.leadconnectorhq.com/hooks/bJbBMjcW619cJrLUJ3kY/webhook-trigger/3yNsurfrt9oBUtRBuygb",
     "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate",
     "facebookPixelId": "1057475448873422",
@@ -35,142 +37,117 @@ const config = {
   },
   "thankYouPage": {
     "pageTitle": "Thank You for Your Entry!",
-    "headerText": "🎉 ONE MORE STEP",
-    "mainMessage": "Your spot for the <strong>Toronto Blue Jays Summer Game Night</strong> is almost locked in! You've made it to the final step of the giveaway - congratulations! Now all you need to do is follow my social media accounts to officially lock in your entry and stay connected",
-    "socialPromptText": "FOLLOW BOTH TO WIN! Complete Your Entry Now"
+    "headerText": "You’re In the Running!",
+    "mainMessage": "Your entry for the Memory Makers Giveaway has been submitted. We will draw the winner on Oct 31, 2025 and contact them by email. Good luck! Keep an eye on your inbox and spam.",
+    "socialPromptText": "Follow our Facebook page for the winner post and more local family perks."
   },
   "prize": {
     "images": [
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/hg2dnqs7yhrm80cqhn79nt68j8.jpg",
-        "alt": "Cheering fans at a Blue Jays baseball game"
+        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/3svfb3amy5rme0csgbgr3ka7t4.jpg",
+        "alt": "Family smiling in fall leaves during golden hour"
       },
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/bk4ehhbc35rmc0cqhn78wzw7t8.jpg",
-        "alt": "Couple enjoying a summer night at the Rogers Centre"
+        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/fgaqdmxfy5rma0csgbgrmhbbsr.jpg",
+        "alt": "Parents and kids cuddling in a field at sunset"
       },
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/w99mghnswxrm80cqhn7bm108b0.jpg",
-        "alt": "Exciting baseball action between Toronto Blue Jays and Texas Rangers"
+        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/8swaprgphsrmc0csgbh9npeexm.jpg",
+        "alt": "Close-up of small hands holding parents' hands"
       },
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/wzcq768e4drme0cqhn7v49g7tr.jpg",
-        "alt": "Tickets for a premier Blue Jays game experience"
+        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/g7wbdckfqnrm80csgbhbh8ab84.jpg",
+        "alt": "Family walking with warm sweaters in a park"
       }
     ],
     "includedItems": [
-      {
-        "icon": "fas fa-baseball-ball",
-        "text": "Two premium tickets to Blue Jays vs. Rangers"
-      },
-      {
-        "icon": "fas fa-user-friends",
-        "text": "Perfect for couples, friends, or a special family outing"
-      },
-      {
-        "icon": "fas fa-star",
-        "text": "$400 total value - for a big-time experience"
-      },
-      {
-        "icon": "fas fa-city",
-        "text": "Catch live baseball in downtown Toronto"
-      },
-      {
-        "icon": "fas fa-calendar-day",
-        "text": "Game date: Summer 2025, Texas Rangers matchup"
-      }
+      { "icon": "fas fa-camera-retro", "text": "1-hour family photo shoot" },
+      { "icon": "fas fa-images", "text": "Up to 75 edited photos to download" },
+      { "icon": "fas fa-map-marked-alt", "text": "Location help included (within 60 miles of Grass Valley)" },
+      { "icon": "fas fa-users", "text": "Limit 5 family members" },
+      { "icon": "fas fa-check", "text": "Wear what you like — keep it comfy" }
     ],
-    "name": "Toronto Blue Jays Summer Game Night Experience",
-    "value": "$400 Value",
-    "description": "Imagine you and your favorite person cheering in the stands as the Blue Jays play live against the Texas Rangers! Feel the rush, eat ballpark snacks, and enjoy a big summer night in the city. This giveaway gets you <span class='highlight'>two premium tickets</span> for the best seats in the house. Whether it’s a fun date or a night with a friend, you’ll remember it all year long.",
-    "limitedTimeOfferText": "Summer Only - Limited Entry!",
-    "ctaButtonText": "I Want These Game Tickets!"
+    "name": "Memory Makers Giveaway — Fall Family Photo Shoot",
+    "value": "$500 Value",
+    "description": "Picture this: golden leaves. Big smiles. Kids giggling. You and your family feeling calm and happy. Your photographer helps pick a great spot. You wear what feels good. You get a full hour to laugh and play. Then you get up to 75 edited photos to keep forever. This is all about family and fun. Simple, easy, and stress-free. We even used this photographer for our own engagement and wedding. We trust them.",
+    "limitedTimeOfferText": "Fall Only — Ends Oct 31!",
+    "ctaButtonText": "I Want This Photo Shoot!"
   },
   "howToEnter": {
     "steps": [
       {
         "icon": "fas fa-edit",
-        "title": "Fill Out the Form",
-        "description": "Enter your name and email in the quick form below—done in under 30 seconds!"
+        "title": "Fill the Quick Form",
+        "description": "Add your name and email. It takes 30 seconds."
       },
       {
         "icon": "fas fa-question-circle",
-        "title": "Answer Simple Questions",
-        "description": "Tell us a little about who you’d bring and why you’d love this summer baseball night."
+        "title": "Answer 4 Simple Questions",
+        "description": "Tell us about your family and home plans."
       },
       {
         "icon": "fas fa-trophy",
-        "title": "Get Your Chance to Win!",
-        "description": "That’s it! Watch your inbox—winner picked July 29th."
+        "title": "You’re Entered",
+        "description": "We draw a random winner on Oct 31, 2025."
       }
     ],
     "highlights": [
-      {
-        "icon": "fas fa-clock",
-        "text": "Super quick and easy entry"
-      },
-      {
-        "icon": "fas fa-gift",
-        "text": "No purchase needed"
-      },
-      {
-        "icon": "fas fa-heart",
-        "text": "Great night out with someone special"
-      },
-      {
-        "icon": "fas fa-star",
-        "text": "Random, fair winner pick"
-      }
-    ]
-  },
-  "rules": {
-    "finePrintText": "Please read the fine print before entering. Anyone can enter.",
-    "showTipsSection": true,
-    "faq": [
-      {
-        "q": "Who can enter this giveaway?",
-        "a": "Anyone 18 or older living in Ontario can enter. Couples, families, and friends are welcome!"
-      },
-      {
-        "q": "How will I know if I win?",
-        "a": "Winner will get an email from jk@property.ca on July 29th. Check your inbox and spam!"
-      },
-      {
-        "q": "Do I have to pay for anything?",
-        "a": "Nope—the tickets are totally free! Just show up and enjoy the game."
-      },
-      {
-        "q": "What if I can’t make the game?",
-        "a": "If you can’t attend, let us know so someone else can use this amazing prize."
-      }
-    ],
-    "tips": [
-      "Double-check your email for typos—make sure you can be reached",
-      "Think of who you'd take for this special night",
-      "Tell family and friends to enter too",
-      "Follow Julian Kashani on Instagram or Facebook for the winner post"
+      { "icon": "fas fa-clock", "text": "Fast 30-second entry" },
+      { "icon": "fas fa-gift", "text": "100% free to enter" },
+      { "icon": "fas fa-heart", "text": "Create real family memories" },
+      { "icon": "fas fa-map-pin", "text": "Great for Roseville and Rocklin" },
+      { "icon": "fas fa-star", "text": "Trusted local photographer" },
+      { "icon": "fas fa-shield-alt", "text": "Fair and random draw" }
     ],
     "fairSelectionInfo": {
-      "title": "Fair and Random Drawing",
-      "text": "Every entry has the same fair shot! Winner is chosen by a random draw. No tricks, just luck."
+      "title": "Fair and Random Winner Selection",
+      "text": "We use a random number generator to pick the winner from all valid entries. One entry per person. Every entry has the same chance."
     },
     "importantNotice": {
-      "title": "Watch Your Email",
-      "text": "Only the email you use here will be contacted. Be sure to check your spam, too, on July 29th."
+      "title": "Winner Notification",
+      "text": "We will email the winner on Oct 31, 2025. Please check your inbox and spam. We may also call. We will post the winner on Facebook for transparency."
+    }
+  },
+  "rules": {
+    "finePrintText": "Please read the fine print before entering. Adults 18+ living in or near Roseville, Rocklin, or within 60 miles of Grass Valley, CA can enter.",
+    "showTipsSection": true,
+    "faq": [
+      { "q": "Who can enter?", "a": "Adults 18+ who live in or near Roseville, Rocklin, or within 60 miles of Grass Valley, CA." },
+      { "q": "What is the prize?", "a": "A fall family photo shoot. 1 hour. Up to 75 edited photos. Limit 5 people. Location help within 60 miles of Grass Valley." },
+      { "q": "Where will the photos be taken?", "a": "Outdoors within 60 miles of Grass Valley. The photographer will help you pick the best spot." },
+      { "q": "Can we bring our dog?", "a": "Most outdoor spots allow dogs. We will confirm with the photographer when we book." },
+      { "q": "How will I know if I win?", "a": "We will email you on Oct 31, 2025. We may also call you. Watch your spam folder." },
+      { "q": "Do I have to pay anything?", "a": "No. The session and edited photos in this prize are covered. Travel beyond 60 miles or add-ons may cost extra." },
+      { "q": "What if it rains?", "a": "We will reschedule with the photographer. Weather happens. We will make it easy." },
+      { "q": "Is this the same photographer you use?", "a": "Yes. We trusted this photographer for our own engagement and wedding photos." }
+    ],
+    "tips": [
+      "Use a correct email so we can reach you",
+      "Pick outfits you feel good in",
+      "Think about a park or area you love",
+      "Follow our Facebook page for the winner post"
+    ],
+    "fairSelectionInfo": {
+      "title": "Fair and Random Winner Selection",
+      "text": "We use a random number generator to pick the winner from all valid entries. One entry per person. Every entry has the same chance."
+    },
+    "importantNotice": {
+      "title": "Winner Notification",
+      "text": "We will email the winner on Oct 31, 2025. Please check your inbox and spam. We may also call. We will post the winner on Facebook for transparency."
     }
   },
   "entryForm": {
     "sharePlatforms": {
-      "facebook": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgiveaway-558.netlify.app%2Fadmin",
-      "twitter": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fgiveaway-558.netlify.app%2Fadmin&text=Win%20Toronto%20Blue%20Jays%20Tickets%20for%20an%20Epic%20Summer%20Game%20Night!"
+      "facebook": "https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2FGiveaway-227.netlify.app",
+      "twitter": "https://twitter.com/intent/tweet?url=http%3A%2F%2FGiveaway-227.netlify.app&text=Win%20a%20%24500%20Fall%20Family%20Photo%20Shoot%20%E2%80%94%20Free%20Entry"
     },
-    "subtitle": "Enter your details below for a shot at your dream Blue Jays night out!",
-    "entryCountText": "Hundreds of Toronto fans are already in—don’t miss your chance!",
-    "socialSharePrompt": "Share with your friends—make it a race to win!"
+    "subtitle": "Enter your details for a chance to win this $500 Memory Makers photo shoot!",
+    "entryCountText": "Local families are entering now. Don’t miss your shot.",
+    "socialSharePrompt": "Share with friends who need new family photos:"
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1750445840887_0",
+      "id": "q_auto_1757969005264_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -192,7 +169,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1750445840887_1",
+      "id": "q_auto_1757969005264_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -200,8 +177,8 @@ const config = {
           "text": "Yes, sometime in 2025"
         },
         {
-          "value": "Yes, in the next 1–2 years",
-          "text": "Yes, in the next 1–2 years"
+          "value": "Yes, in the next 1 - 2 years",
+          "text": "Yes, in the next 1 - 2 years"
         },
         {
           "value": "Not at the moment",
@@ -214,7 +191,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1750445840887_2",
+      "id": "q_auto_1757969005264_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
@@ -238,31 +215,31 @@ const config = {
   ],
   "footerContact": {
     "social": {
-      "facebook": "https://www.facebook.com/JulianKashaniRealtor",
-      "instagram": "http://instagram.com/juliankashani"
+      "facebook": "https://www.facebook.com/Andrewabroker/",
+      "instagram": ""
     },
     "agentContact": {
-      "name": "Julian Kashani",
+      "name": "Andrew Ahmed",
       "title": "Real Estate Agent",
-      "phone": "(416) 837-7775",
-      "email": "jk@property.ca"
+      "phone": "416-655-4850",
+      "email": "arslan@salesgenius.co"
     },
-    "footerDisclaimer": "This giveaway is sponsored by Julian Kashani, REALTOR®, and is not sponsored by or affiliated with the Toronto Blue Jays or Texas Rangers. Winner selected at random from entries received by July 25th, 2025. Must be 18+ and an Ontario resident to enter.",
-    "organizerLogoUrl": "",
-    "secondaryLogoUrl": "",
-    "secondaryLogoAlt": "Property.Ca Brokerage Logo",
-    "organizerName": "Julian Kashani",
-    "brokerageName": "Property.Ca",
-    "address": "36 Distillery Lane Unit 500 Toronto M5A3C4",
-    "email": "jk@property.ca",
-    "phone": "(416) 837-7775",
-    "copyrightOwner": "Property.Ca"
+    "footerDisclaimer": "This giveaway is sponsored by Andrew Ahmed and EXECUTIVE HOMES REALTY INC. It is not sponsored by or affiliated with Facebook, Instagram, or the photographer. One winner will be selected at random from eligible entries received by Oct 31, 2025. Must be 18+ and live in or near Roseville, Rocklin, or within 60 miles of Grass Valley, CA. No purchase necessary. Void where prohibited. Session subject to photographer availability, weather, and location rules. Limit 1 entry per person. Prize includes a 1-hour session, up to 75 edited photos, limit 5 family members, at a location within 60 miles of Grass Valley.",
+    "organizerLogoUrl": "https://prod-files-secure.s3.us-west-2.amazonaws.com/8e0c10a0-da43-409c-b191-91135b7161ff/3780665a-d3ac-437b-b4a0-95065664fc6a/Office_Logo.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466QJN4F27R%2F20250925%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250925T214650Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEPb%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIAjbr4HtNxDIWA%2FT05lo8%2F8vG4RCprr44CS5CeceHc6eAiAtXmqDrbQY6ud96AaMCFRgU3RxMukQvfFSAiSIl6YiCyr%2FAwh%2FEAAaDDYzNzQyMzE4MzgwNSIMZOnTqlUbSrfeeOA0KtwD2XlyGP%2FzDdnHNbOqQwEdAb1McvCn0%2FqLqaIUudhZMfHq1a619gUwsLh4jh7cmlXPjn906NO8NvH%2BPLIjoDekSgU8fgW3yKE%2FHhFNLh3VRQPQyK988FrrbNUG7KqWEGdGYMvKUK7A4c01lo%2BMb7lX76VMpfDJuIVdvmxYpFU4EraxNXJHZAhCWGp7Q608cZG9qwoLvSb4nTq6odTLki%2FhSubiZTuBy1dDl5BYHKslyeRmy2TZL8RYzSC8ED2tkHFIfa904c763mL67GeECaS%2BhZqwpsofUxrMIlBEDxI52h9zKvVcTouHzQDc%2FEp4%2FFMTRfzW0Pty4dDGFRdXm7WimmAF3fQSwUc6frdaHL4jRpgS9nFjiC74%2FhgGb5Sf04Y0opq%2FYO4%2FYu%2B7OFfOYEN9kgxDaM23LIPJ8ANejOtCYrGunE%2BCNUHc3Rq9SSuCEyaNHSO7e5UkVe1y8eiMgrfkZvcoLKCfj3h4%2BdwW4bf7e8KHmGbN3f4Bh8KzNAGwhpipUNPyPmTM0jF%2BL2yuYBmqAfF6fIVXgxPyA15O3feRcRNn3pTAmN2weJ1FACFQNS0A46PAAo6wF%2FpgY0UzycCnjH%2FYWvg35w8RnL1FtROJd6hPGiHzMnzATdOqVhMw9urWxgY6pgHFOEcL9hrGH3XX24V1GH%2BMM%2B6q8rVZuQggB91IbGv%2F7g2dglZYwWhsTKY7XKsAIWtQkWyXaonSLvW7w5rRLuCcAOLOAj6HgQ3yIcl3jsvXTdJaKD3kOz%2BhObVZ5kQXBfHs7VDA4JR5p%2FLyqGE%2FpAV6y4I1nX6HsM4mUn7PaAORxcDn93GUpj8zpdonVlpkpcTgxtwVg%2BF3ZIO9q%2F232ydmFD1ZHWmS&X-Amz-Signature=1b69c486a680294dceafa771ce7976b58e10a82b12a6ed836734fd7bf7cdc07b&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+    "secondaryLogoUrl": "https://prod-files-secure.s3.us-west-2.amazonaws.com/8e0c10a0-da43-409c-b191-91135b7161ff/73482f1e-fecf-4dae-8733-27b38a97f827/headshot_no_bg.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466QJN4F27R%2F20250925%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250925T214650Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEPb%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIAjbr4HtNxDIWA%2FT05lo8%2F8vG4RCprr44CS5CeceHc6eAiAtXmqDrbQY6ud96AaMCFRgU3RxMukQvfFSAiSIl6YiCyr%2FAwh%2FEAAaDDYzNzQyMzE4MzgwNSIMZOnTqlUbSrfeeOA0KtwD2XlyGP%2FzDdnHNbOqQwEdAb1McvCn0%2FqLqaIUudhZMfHq1a619gUwsLh4jh7cmlXPjn906NO8NvH%2BPLIjoDekSgU8fgW3yKE%2FHhFNLh3VRQPQyK988FrrbNUG7KqWEGdGYMvKUK7A4c01lo%2BMb7lX76VMpfDJuIVdvmxYpFU4EraxNXJHZAhCWGp7Q608cZG9qwoLvSb4nTq6odTLki%2FhSubiZTuBy1dDl5BYHKslyeRmy2TZL8RYzSC8ED2tkHFIfa904c763mL67GeECaS%2BhZqwpsofUxrMIlBEDxI52h9zKvVcTouHzQDc%2FEp4%2FFMTRfzW0Pty4dDGFRdXm7WimmAF3fQSwUc6frdaHL4jRpgS9nFjiC74%2FhgGb5Sf04Y0opq%2FYO4%2FYu%2B7OFfOYEN9kgxDaM23LIPJ8ANejOtCYrGunE%2BCNUHc3Rq9SSuCEyaNHSO7e5UkVe1y8eiMgrfkZvcoLKCfj3h4%2BdwW4bf7e8KHmGbN3f4Bh8KzNAGwhpipUNPyPmTM0jF%2BL2yuYBmqAfF6fIVXgxPyA15O3feRcRNn3pTAmN2weJ1FACFQNS0A46PAAo6wF%2FpgY0UzycCnjH%2FYWvg35w8RnL1FtROJd6hPGiHzMnzATdOqVhMw9urWxgY6pgHFOEcL9hrGH3XX24V1GH%2BMM%2B6q8rVZuQggB91IbGv%2F7g2dglZYwWhsTKY7XKsAIWtQkWyXaonSLvW7w5rRLuCcAOLOAj6HgQ3yIcl3jsvXTdJaKD3kOz%2BhObVZ5kQXBfHs7VDA4JR5p%2FLyqGE%2FpAV6y4I1nX6HsM4mUn7PaAORxcDn93GUpj8zpdonVlpkpcTgxtwVg%2BF3ZIO9q%2F232ydmFD1ZHWmS&X-Amz-Signature=3c3ba390c696d347ba4ec94f61c55d5c1a3644abcaf592aa033dec283477444f&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+    "secondaryLogoAlt": "Andrew Ahmed Headshot",
+    "organizerName": "Andrew Ahmed",
+    "brokerageName": "EXECUTIVE HOMES REALTY INC.",
+    "address": "290 TRADERS BLVD EAST #1, MISSISSAUGA, Ontario L4Z 1W7",
+    "email": "arslan@salesgenius.co",
+    "phone": "416-655-4850",
+    "copyrightOwner": "EXECUTIVE HOMES REALTY INC."
   },
   "deploymentInfo": {
-    "repoName": "Giveaway-558",
-    "repoUrl": "https://github.com/arslvn93/Giveaway-558",
-    "netlifyUrl": "http://Giveaway-558.netlify.app",
+    "repoName": "Giveaway-227",
+    "repoUrl": "https://github.com/arslvn93/Giveaway-227",
+    "netlifyUrl": "http://Giveaway-227.netlify.app",
     "netlifyId": "",
-    "tag": "Blue Jays Giveaway"
+    "tag": "Memory Makers Giveaway"
   }
 };
